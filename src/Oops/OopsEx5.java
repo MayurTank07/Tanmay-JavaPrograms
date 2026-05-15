@@ -49,7 +49,7 @@ public class OopsEx5 {
 		
 		System.out.println("\n\tCompany details : \n");
 		
-		c1.companyDetails();
+		c1.companyDetails();  // method call
 		
 		System.out.println("\n\n--------------------------------");
 	}
